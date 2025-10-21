@@ -1,6 +1,2 @@
 
-🧩 Atividade Prática – Branch no GitHub
-👥 Integrantes:
-
-[David dde araujo Nascimento]
-
+Uma branch (ramificação) é uma cópia paralela do código principal (geralmente a main ou master). Ela permite que diferentes funcionalidades ou correções sejam desenvolvidas de forma independente, sem alterar o código principal até que estejam prontas.
